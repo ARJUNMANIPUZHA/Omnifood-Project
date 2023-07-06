@@ -5,3 +5,7 @@ Technologies used
   - HTML5
   - CSS3
   - JAVASCRIPT
+
+Deployed in Netlify
+
+Link - https://omnifood-arjun-krishna.netlify.app/
